@@ -15,4 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
+
+```txt
+TypeScript     33 hrs 6 mins   ████████████████████▒░░░░   81.99 %
+Java           3 hrs 11 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 %
+Markdown       52 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
+Python         47 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
+Other          38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
+```
+
 <!--END_SECTION:waka-->
