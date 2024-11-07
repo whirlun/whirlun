@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript    10 hrs 21 mins  █████████████░░░░░░░░░░░░   52.61 %
-Other         2 hrs 42 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.75 %
-YAML          2 hrs 12 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.26 %
-Python        1 hr 56 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.90 %
-Assembly      45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
+TypeScript    7 hrs 26 mins   ███████████▓░░░░░░░░░░░░░   47.27 %
+Other         3 hrs 3 mins    █████░░░░░░░░░░░░░░░░░░░░   19.44 %
+Python        2 hrs 11 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.96 %
+YAML          54 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 %
+Assembly      46 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.94 %
 ```
 
 <!--END_SECTION:waka-->
