@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Dart         8 hrs 28 mins   █████████▓░░░░░░░░░░░░░░░   38.99 %
-C            6 hrs 31 mins   ███████▓░░░░░░░░░░░░░░░░░   30.01 %
-TypeScript   2 hrs 13 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.20 %
-Other        1 hr 28 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.75 %
-Text         59 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
+Dart         8 hrs 30 mins   █████████▓░░░░░░░░░░░░░░░   38.36 %
+C            6 hrs 31 mins   ███████▒░░░░░░░░░░░░░░░░░   29.42 %
+Other        1 hr 49 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 %
+TypeScript   1 hr 39 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 %
+Text         59 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 %
 ```
 
 <!--END_SECTION:waka-->
