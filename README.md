@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python           2 hrs           ███████▒░░░░░░░░░░░░░░░░░   29.26 %
-Other            1 hr 29 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.74 %
-Dart             1 hr 24 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.69 %
-Swift            48 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.75 %
-Markdown         22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
+Other            1 hr 29 mins    ███████▓░░░░░░░░░░░░░░░░░   30.28 %
+Dart             1 hr 24 mins    ███████▒░░░░░░░░░░░░░░░░░   28.82 %
+Swift            48 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.36 %
+Markdown         22 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 %
+CocoaPods        16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
 ```
 
 <!--END_SECTION:waka-->
