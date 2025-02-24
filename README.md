@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python           8 hrs 32 mins   ████████████▒░░░░░░░░░░░░   49.90 %
-Go               3 hrs 9 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.39 %
-Terraform        2 hrs 14 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.05 %
-HCL              1 hr 7 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.61 %
-Makefile         27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
+Python           8 hrs 33 mins   ███████████▒░░░░░░░░░░░░░   45.21 %
+Go               4 hrs 57 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.19 %
+Terraform        2 hrs 14 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.81 %
+HCL              1 hr 7 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 %
+Makefile         27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
 ```
 
 <!--END_SECTION:waka-->
