@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python       10 hrs 39 mins  █████████████████▒░░░░░░░   69.28 %
-Elixir       1 hr 29 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.72 %
-Other        43 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 %
-C            34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
-TypeScript   31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
+Python       9 hrs 30 mins   █████████████████▒░░░░░░░   69.08 %
+Elixir       1 hr 34 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.46 %
+TypeScript   35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
+C            34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
+HTML+EEX     29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
 ```
 
 <!--END_SECTION:waka-->
