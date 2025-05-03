@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python       7 hrs 13 mins   ██████████████▓░░░░░░░░░░   58.80 %
-Rust         3 hrs 25 mins   ███████░░░░░░░░░░░░░░░░░░   27.84 %
-Assembly     36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 %
-TypeScript   24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
-C            9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
+Rust         8 hrs 30 mins   █████████████▒░░░░░░░░░░░   53.69 %
+Python       4 hrs 59 mins   ████████░░░░░░░░░░░░░░░░░   31.50 %
+Assembly     1 hr 35 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.00 %
+TypeScript   15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
+CSS          8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
 ```
 
 <!--END_SECTION:waka-->
