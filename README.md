@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Elixir   3 mins          ███████████░░░░░░░░░░░░░░   43.34 %
-Python   3 mins          ██████████░░░░░░░░░░░░░░░   39.68 %
-Other    1 min           ████▒░░░░░░░░░░░░░░░░░░░░   16.98 %
+JSON     40 mins         █████████████████████░░░░   83.78 %
+Elixir   3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 %
+Python   2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
+Other    1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
 ```
 
 <!--END_SECTION:waka-->
