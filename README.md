@@ -17,10 +17,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-JSON     41 mins         ████████████████████▓░░░░   82.12 %
-Elixir   4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.67 %
-Python   2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
-Other    1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
+Elixir       4 hrs 4 mins    ████████████████▒░░░░░░░░   65.49 %
+JSON         41 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.99 %
+HTML+EEX     37 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.07 %
+Bash         33 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.97 %
+Python       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
 ```
 
 <!--END_SECTION:waka-->
