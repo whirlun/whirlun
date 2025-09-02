@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python       7 hrs 56 mins   █████████▓░░░░░░░░░░░░░░░   38.88 %
-Svelte       4 hrs 7 mins    █████░░░░░░░░░░░░░░░░░░░░   20.18 %
-TypeScript   2 hrs 32 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.41 %
-Terraform    1 hr 53 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.25 %
-Other        1 hr 22 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.74 %
+Python       7 hrs 56 mins   ████████████▓░░░░░░░░░░░░   50.74 %
+Svelte       2 hrs 17 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.69 %
+Terraform    1 hr 53 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.07 %
+Other        1 hr 13 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 %
+TypeScript   1 hr 11 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 %
 ```
 
 <!--END_SECTION:waka-->
