@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python         1 hr 38 mins    ████████████▒░░░░░░░░░░░░   48.88 %
-Other          44 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.90 %
-Text           22 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.37 %
-Terraform      17 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 %
-HTTP Request   6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
+Python         1 hr 39 mins    ███████████████░░░░░░░░░░   59.76 %
+Other          36 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.83 %
+Terraform      17 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.36 %
+HTTP Request   6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
+GLSL           4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
 ```
 
 <!--END_SECTION:waka-->
