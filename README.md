@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python       8 hrs 37 mins   ████████████████████▓░░░░   82.21 %
-Git          55 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.77 %
-Other        18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
-TypeScript   15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
-Emacs Lisp   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
+Python       10 hrs 50 mins  ██████████████████▒░░░░░░   73.33 %
+Org          1 hr 3 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 %
+Git          34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
+Other        26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
+Yacc         22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
 ```
 
 <!--END_SECTION:waka-->
