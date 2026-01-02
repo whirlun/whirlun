@@ -17,10 +17,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   17 mins         ███████████████████▒░░░░░   77.18 %
-Rust       4 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.96 %
-Typst      0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
-reg        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
+Rust       8 mins          █████████████▓░░░░░░░░░░░   54.20 %
+Markdown   7 mins          ███████████▒░░░░░░░░░░░░░   45.80 %
 ```
 
 <!--END_SECTION:waka-->
