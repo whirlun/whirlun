@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-SQL            7 hrs 15 mins         ████████░░░░░░░░░░░░░░░░░   32.33 %
-Rust           3 hrs 40 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.36 %
-Markdown       3 hrs 35 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.02 %
-YAML           2 hrs 7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.45 %
-Git            1 hr 47 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 %
+SQL            6 hrs 10 mins         ███████▒░░░░░░░░░░░░░░░░░   29.62 %
+Markdown       3 hrs 44 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.99 %
+Rust           3 hrs 43 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.90 %
+Git            2 hrs 4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.97 %
+YAML           1 hr 45 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 %
 ```
 
 <!--END_SECTION:waka-->
