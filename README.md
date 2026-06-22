@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python       6 hrs 10 mins         ████████████▓░░░░░░░░░░░░   51.03 %
-Markdown     2 hrs 25 mins         █████░░░░░░░░░░░░░░░░░░░░   19.99 %
-Other        1 hr 40 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.86 %
-Terraform    55 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 %
-Vim Script   17 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
+Python            6 hrs 25 mins         ███████████▓░░░░░░░░░░░░░   47.09 %
+Markdown          2 hrs 53 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.22 %
+Other             1 hr 40 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.30 %
+Terraform         55 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.75 %
+Kotlin            44 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
 ```
 
 <!--END_SECTION:waka-->
