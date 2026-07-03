@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin            15 hrs 55 mins        ████████████▓░░░░░░░░░░░░   51.22 %
-Markdown          4 hrs 51 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.60 %
-Python            4 hrs 5 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.17 %
-HTML              1 hr 5 mins           █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
-Other             1 hr 4 mins           █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
+Kotlin            15 hrs 55 mins        ████████████▒░░░░░░░░░░░░   49.47 %
+Markdown          4 hrs 54 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.26 %
+Python            3 hrs 48 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.84 %
+Terraform         1 hr 55 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 %
+Git               1 hr 6 mins           █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
 ```
 
 <!--END_SECTION:waka-->
