@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown         11 hrs 47 mins        ████████░░░░░░░░░░░░░░░░░   31.39 %
-Rust             6 hrs 30 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.33 %
-Kotlin           6 hrs 13 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.59 %
-Python           4 hrs 6 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.96 %
-Other            3 hrs 6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 %
+Markdown         12 hrs 41 mins        █████████░░░░░░░░░░░░░░░░   36.53 %
+Kotlin           6 hrs 13 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.94 %
+Python           4 hrs 35 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.23 %
+Rust             4 hrs 11 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.06 %
+Other            3 hrs 9 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.09 %
 ```
 
 <!--END_SECTION:waka-->
