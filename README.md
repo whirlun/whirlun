@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Promela      6 hrs 28 mins         ████████▓░░░░░░░░░░░░░░░░   34.57 %
-Python       5 hrs 21 mins         ███████░░░░░░░░░░░░░░░░░░   28.65 %
-Markdown     2 hrs 57 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.79 %
-Other        1 hr 41 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.07 %
-Emacs Lisp   40 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
+Python       11 hrs 27 mins        ██████████░░░░░░░░░░░░░░░   40.47 %
+Promela      6 hrs 51 mins         ██████░░░░░░░░░░░░░░░░░░░   24.23 %
+Markdown     4 hrs 6 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.50 %
+Other        1 hr 50 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 %
+C++          1 hr 11 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
 ```
 
 <!--END_SECTION:waka-->
