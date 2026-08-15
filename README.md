@@ -17,11 +17,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python       2 hrs 44 mins         ████████████████▒░░░░░░░░   65.52 %
-TypeScript   43 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.30 %
-SQL          28 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.44 %
-Git          7 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
-Markdown     6 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
