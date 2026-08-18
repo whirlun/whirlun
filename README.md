@@ -17,7 +17,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Kotlin     2 hrs 33 mins         ██████████████▓░░░░░░░░░░   59.32 %
+Markdown   1 hr 39 mins          █████████▓░░░░░░░░░░░░░░░   38.45 %
+Bash       3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+SQL        1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+TSV        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
